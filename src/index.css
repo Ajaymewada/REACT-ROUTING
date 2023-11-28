@@ -1,0 +1,31 @@
+body{
+  font-family: sans-serif;
+  font-size: 25px;
+}
+nav{
+  padding: 16px 32px;
+}
+nav a{
+  margin-right: 20px;
+}
+.primary-navbar{
+  background-color: aliceblue;
+  padding: 16px 32px;
+  display: flex;
+}
+.primary-navbar a{
+  margin-right: 20px;
+}
+.primary-navbar a.active{
+  text-decoration: none;
+  font-weight: bold;
+  color: blueviolet;
+}
+button{
+  padding: 16px 32px;
+  background-color: blue;
+  color: #fff;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+}
