@@ -21,6 +21,11 @@ nav a{
   font-weight: bold;
   color: blueviolet;
 }
+.subNavbar a.active{
+  text-decoration: none;
+  font-weight: bold;
+  color: rgb(226, 43, 205);
+}
 button{
   padding: 16px 32px;
   background-color: blue;
